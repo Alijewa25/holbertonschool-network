@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Displays listening ports and program details using sudo
+# Displays listening sockets and program details
 
-sudo netstat -pnl
+netstat -l -p
