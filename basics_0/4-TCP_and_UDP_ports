@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Displays listening sockets and program details
 
-netstat -l -p
+netstat -lp
