@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# filepath: /Users/Dev/Holberton/holbertonschool-network/basics_0/4-TCP_and_UDP_ports
-sudo netstat -lp
+# Displays all listening TCP and UDP ports with PID and program name
+sudo netstat -lpn
